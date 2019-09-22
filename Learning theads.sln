@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning theads", "Learning theads\Learning theads.csproj", "{E77464B5-942A-45C9-9918-26FF7C6E68DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E77464B5-942A-45C9-9918-26FF7C6E68DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E77464B5-942A-45C9-9918-26FF7C6E68DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E77464B5-942A-45C9-9918-26FF7C6E68DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E77464B5-942A-45C9-9918-26FF7C6E68DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FC185B-79A1-4D9D-822B-B4C41EBE1201}
+	EndGlobalSection
+EndGlobal

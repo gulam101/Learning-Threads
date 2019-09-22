@@ -1,0 +1,11 @@
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\bin\Debug\Learning theads.exe.config
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\bin\Debug\Learning theads.exe
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\bin\Debug\Learning theads.pdb
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\obj\Debug\Learning theads.csprojAssemblyReference.cache
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\obj\Debug\Learning_theads.Properties.Resources.resources
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\obj\Debug\Learning theads.csproj.GenerateResource.cache
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\obj\Debug\Learning theads.csproj.CoreCompileInputs.cache
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\obj\Debug\Learning theads.exe
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\obj\Debug\Learning theads.pdb
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\obj\Debug\Learning_theads.frmSplash.resources
+C:\Users\Gulam\source\repos\Learning theads\Learning theads\obj\Debug\Learning_theads.Main.resources
